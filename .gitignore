@@ -1,0 +1,9 @@
+node_modules/
+.env
+database/mahangapani.db
+database/*.db-shm
+database/*.db-wal
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
